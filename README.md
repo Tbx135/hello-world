@@ -1,4 +1,3 @@
-# hello-world
-first test repository
+# aMBSE
 
-this is the first commit changes that need to be made.  
+This is a repository for Enterprise Architect MDG model patterns, profiles, and files to support Agile Model Based Systems Engineering.  
